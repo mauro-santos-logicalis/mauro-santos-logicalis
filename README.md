@@ -12,21 +12,31 @@
     },
     {
       "name": "☁️ Skills em AWS",
-      "content": [
-        "📘 AWS Certified Cloud Practitioner",
-        "🏗️ AWS Certified Solutions Architect – Associate",
-        "💻 AWS Certified Developer – Associate",
-        "🔐 AWS Certified Security – Specialty",
-        "⚡ Experiência prática em EC2, S3, RDS, Lambda, IAM, VPC e CloudWatch"
+      "table": {
+        "headers": ["Certificação", "Emoji", "Descrição"],
+        "rows": [
+          ["Cloud Practitioner", "📘", "Fundamentos da nuvem AWS e visão geral dos serviços"],
+          ["Solutions Architect – Associate", "🏗️", "Projetar soluções escaláveis, resilientes e seguras"],
+          ["Developer – Associate", "💻", "Desenvolvimento e manutenção de aplicações na AWS"],
+          ["Security – Specialty", "🔐", "Segurança avançada em workloads e dados na nuvem"]
+        ]
+      },
+      "extra": [
+        "Experiência prática em: EC2, S3, RDS, Lambda, IAM, VPC, CloudWatch"
       ]
     },
     {
       "name": "💰 Skills em FinOps",
-      "content": [
-        "📊 FinOps Certified Practitioner",
-        "📑 FinOps Certified FOCUS",
-        "⚙️ FinOps Certified Engineer",
-        "💡 Experiência em otimização de custos, chargeback/showback e relatórios financeiros em nuvem"
+      "table": {
+        "headers": ["Certificação", "Emoji", "Descrição"],
+        "rows": [
+          ["Practitioner", "📊", "Fundamentos do FinOps para equipes multidisciplinares"],
+          ["FOCUS", "📑", "Padrão aberto para dados de custos em nuvem"],
+          ["Engineer", "⚙️", "Implementação técnica de práticas FinOps em escala"]
+        ]
+      },
+      "extra": [
+        "Experiência prática em: otimização de custos, chargeback/showback, relatórios financeiros em nuvem"
       ]
     },
     {
