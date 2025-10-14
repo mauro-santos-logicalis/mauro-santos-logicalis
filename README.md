@@ -1,125 +1,65 @@
-{
- "title": "👨‍💻 Minhas Skills | ☁️ AWS | 💰 FinOps | 🛠️ IaC",
- "content": [
-   "# 👨‍💻 Minhas Skills | ☁️ AWS | 💰 FinOps | 🛠️ IaC",
-   "",
-   "<div align=\"center\">",
-   "",
-   "### 🚀 Bem-vindo(a) ao meu portfólio técnico!",
-   "",
-   "🌩️ **Cloud | 💰 FinOps | 🛠️ IaC | 🔐 Security | ⚙️ Automation**",
-   "",
-   "---",
-   "",
-   "#### 📊 GitHub Stats",
-   "",
-   "![Profile Views](https://komarev.com/ghpvc/?username=maurosantos&label=👀%20Profile%20Views&color=brightgreen)",
-   "![GitHub Followers](https://img.shields.io/github/followers/maurosantos?label=👥%20Followers&style=flat)",
-   "![GitHub Stars](https://img.shields.io/github/stars/maurosantos?label=⭐%20Stars&style=flat)",
-   "",
-   "![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurosantos&layout=compact&theme=tokyonight)",
-   "![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maurosantos&show_icons=true&theme=tokyonight)",
-   "",
-   "---",
-   "",
-   "#### 🎓 Certificações e Badges",
-   "",
-   "![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?logo=amazon-aws&logoColor=white)",
-   "![AWS Solutions Architect](https://img.shields.io/badge/AWS%20Solutions%20Architect%20–%20Associate-FF9900?logo=amazon-aws&logoColor=white)",
-   "![AWS Developer](https://img.shields.io/badge/AWS%20Developer%20–%20Associate-232F3E?logo=amazon-aws&logoColor=white)",
-   "![AWS Security Specialty](https://img.shields.io/badge/AWS%20Security%20Specialty-FF4F00?logo=amazon-aws&logoColor=white)",
-   "![FinOps Practitioner](https://img.shields.io/badge/FinOps%20Practitioner-0A66C2?logo=finops&logoColor=white)",
-   "![FOCUS Standard](https://img.shields.io/badge/FinOps%20FOCUS-0078D7?logo=finops&logoColor=white)",
-   "![FinOps Engineer](https://img.shields.io/badge/FinOps%20Engineer-009688?logo=finops&logoColor=white)",
-   "![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)",
-   "![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F00?logo=amazon-aws&logoColor=white)",
-   "![AWS CDK](https://img.shields.io/badge/AWS%20CDK-232F3E?logo=amazon-aws&logoColor=white)",
-   "",
-   "</div>",
-   "",
-   "---",
-   "",
-   "## 🚀 Sobre mim",
-   "- Profissional com experiência em **Cloud Computing**, **FinOps** e **IaC**",
-   "- Atuação em **otimização de custos**, **arquitetura de soluções** e **DevOps**",
-   "- Foco em **boas práticas, escalabilidade e governança** em nuvem",
-   "",
-   "---",
-   "",
-   "## ☁️ Skills em AWS",
-   "",
-   "| Certificação | Ícone | Descrição |",
-   "|--------------|:------:|-----------|",
-   "| ![Cloud Practitioner](https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Cloud-Practitioner_badge.2d1a8d7b91d1cfb5e5f4a4a26e10d8d2e36f1f31.png) | 📘 | Fundamentos da nuvem AWS e visão geral dos serviços |",
-   "| ![Solutions Architect](https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Solutions-Architect-Associate_badge.38b52d5bcdad34d218b68762a63b1d6f6323b4e1.png) | 🏗️ | Projetar soluções escaláveis, resilientes e seguras |",
-   "| ![Developer Associate](https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Developer-Associate_badge.5c7d2a2e9dada3b4dcd59a7012a8b09e6c1b8c94.png) | 💻 | Desenvolvimento e manutenção de aplicações na AWS |",
-   "| ![Security Specialty](https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Security-Specialty_badge.9cc2b41e4d16b9a2db2a3cdbbafad7fcd84c1f09.png) | 🔐 | Segurança avançada em workloads e dados na nuvem |",
-   "",
-   "💡 **Experiência prática em:** EC2, S3, RDS, Lambda, IAM, VPC, CloudWatch",
-   "",
-   "---",
-   "",
-   "## 💰 Skills em FinOps",
-   "",
-   "| Certificação | Ícone | Descrição |",
-   "|--------------|:------:|-----------|",
-   "| ![FinOps Practitioner](https://www.finops.org/wp-content/uploads/2021/09/finops-certified-practitioner-badge.png) | 📊 | Fundamentos do FinOps para equipes multidisciplinares |",
-   "| ![FinOps FOCUS](https://www.finops.org/wp-content/uploads/2023/06/focus-badge.png) | 📑 | Padrão aberto para dados de custos em nuvem |",
-   "| ![FinOps Engineer](https://www.finops.org/wp-content/uploads/2024/01/finops-certified-engineer-badge.png) | ⚙️ | Implementação técnica de práticas FinOps em escala |",
-   "",
-   "💡 **Experiência prática em:** otimização de custos, chargeback/showback, relatórios financeiros em nuvem",
-   "",
-   "---",
-   "",
-   "## 🛠️ Skills em IaC",
-   "- 📦 **Terraform** → Multi-cloud e modularidade",
-   "- 📜 **AWS CloudFormation** → Automação nativa AWS",
-   "- 💡 **AWS CDK** → IaC com linguagens de programação",
-   "- 🔄 Integração com pipelines **CI/CD**",
-   "",
-   "---",
-   "",
-   "## 📂 Estrutura do Repositório",
-   "```bash",
-   ".",
-   "├── aws/",
-   "│   ├── practitioner/",
-   "│   ├── solutions-architect/",
-   "│   ├── developer/",
-   "│   └── security-specialty/",
-   "├── finops/",
-   "│   ├── practitioner/",
-   "│   ├── focus/",
-   "│   └── engineer/",
-   "├── iac/",
-   "│   ├── terraform/",
-   "│   ├── cloudformation/",
-   "│   └── cdk/",
-   "└── README.md",
-   "```",
-   "",
-   "---",
-   "",
-   "## 🎯 Objetivos",
-   "- Consolidar minhas **skills em Cloud, FinOps e IaC**",
-   "- Compartilhar **conhecimento e boas práticas**",
-   "- Criar um **portfólio técnico** para a comunidade",
-   "",
-   "---",
-   "",
-   "## 📌 Referências",
-   "- [AWS Certification](https://aws.amazon.com/pt/certification/)",
-   "- [FinOps Foundation Learning](https://learn.finops.org/)",
-   "- [Cloud FinOps Official Site](https://cloudfinops.org/)",
-   "",
-   "---",
-   "",
-   "<div align=\"center\">",
-   "",
-   "✨ *Construindo conhecimento e otimizando custos na nuvem!* ☁️💰🛠️  ",
-   "<br>",
-   "<img src=\"https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif\" width=\"100\" alt=\"AWS Cloud Animation\"/>",
-   "",
-   "</div>"
- ]
-}
+<!-- HEADER -->
+<h1 align="center">👨‍💻 Minhas Skills | ☁️ AWS | 💰 FinOps | 🛠️ IaC</h1>
+<p align="center">
+<b>Bem-vindo(a) ao meu portfólio técnico!</b><br>
+ 🌩️ Cloud • 💰 FinOps • 🛠️ IaC • 🔐 Security • ⚙️ Automation
+</p>
+---
+<!-- BADGES -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=maurosantos&label=👀%20Visualizações&color=brightgreen" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/maurosantos?label=👥%20Followers&style=flat" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/maurosantos?label=⭐%20Stars&style=flat" alt="Stars"/>
+</p>
+---
+## 🚀 Sobre mim
+- Profissional com experiência em **Cloud Computing**, **FinOps** e **IaC**  
+- Atuação em **otimização de custos**, **arquitetura de soluções** e **DevOps**  
+- Foco em **boas práticas, escalabilidade e governança** em nuvem  
+---
+## ☁️ Certificações AWS
+<p align="center">
+<img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Cloud-Practitioner_badge.2d1a8d7b91d1cfb5e5f4a4a26e10d8d2e36f1f31.png" width="120" alt="AWS Cloud Practitioner"/>
+<img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Solutions-Architect-Associate_badge.38b52d5bcdad34d218b68762a63b1d6f6323b4e1.png" width="120" alt="AWS Solutions Architect"/>
+<img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Developer-Associate_badge.5c7d2a2e9dada3b4dcd59a7012a8b09e6c1b8c94.png" width="120" alt="AWS Developer"/>
+<img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Security-Specialty_badge.9cc2b41e4d16b9a2db2a3cdbbafad7fcd84c1f09.png" width="120" alt="AWS Security Specialty"/>
+</p>
+💡 **Experiência prática em:** EC2, S3, RDS, Lambda, IAM, VPC, CloudWatch  
+---
+## 💰 Skills em FinOps
+<p align="center">
+<img src="https://www.finops.org/wp-content/uploads/2021/09/finops-certified-practitioner-badge.png" width="120" alt="FinOps Practitioner"/>
+<img src="https://www.finops.org/wp-content/uploads/2023/06/focus-badge.png" width="120" alt="FinOps FOCUS"/>
+<img src="https://www.finops.org/wp-content/uploads/2024/01/finops-certified-engineer-badge.png" width="120" alt="FinOps Engineer"/>
+</p>
+💡 **Experiência prática em:** otimização de custos, chargeback/showback, relatórios financeiros em nuvem  
+---
+## 🛠️ Skills em IaC
+- 📦 **Terraform** → Multi-cloud e modularidade  
+- 📜 **AWS CloudFormation** → Automação nativa AWS  
+- 💡 **AWS CDK** → IaC com linguagens de programação  
+- 🔄 Integração com pipelines **CI/CD**  
+---
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=maurosantos&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurosantos&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+---
+## 📂 Estrutura do Repositório
+```bash
+.
+├── aws/
+│   ├── practitioner/
+│   ├── solutions-architect/
+│   ├── developer/
+│   └── security-specialty/
+├── finops/
+│   ├── practitioner/
+│   ├── focus/
+│   └── engineer/
+├── iac/
+│   ├── terraform/
+│   ├── cloudformation/
+│   └── cdk/
+└── README.md
