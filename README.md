@@ -1,13 +1,13 @@
 {
   "title": "👨‍💻 Minhas Skills | ☁️ AWS | 💰 FinOps | 🛠️ IaC",
-  "description": "Repositório criado para apresentar minhas principais habilidades técnicas, certificações e áreas de especialização em Cloud, FinOps e Infrastructure as Code.",
+  "intro": "Este repositório apresenta minhas principais habilidades técnicas, certificações e áreas de especialização em Cloud, FinOps e Infrastructure as Code (IaC).",
   "sections": [
     {
       "name": "🚀 Sobre mim",
-      "content": [
-        "Profissional com experiência em Cloud Computing, FinOps e automação de infraestrutura.",
-        "Atuação em projetos de otimização de custos, arquitetura de soluções e práticas de DevOps.",
-        "Foco em boas práticas, escalabilidade e governança em ambientes de nuvem."
+      "bullets": [
+        "Profissional com experiência em **Cloud Computing**, **FinOps** e **IaC**",
+        "Atuação em **otimização de custos**, **arquitetura de soluções** e **DevOps**",
+        "Foco em **boas práticas, escalabilidade e governança** em nuvem"
       ]
     },
     {
@@ -21,9 +21,7 @@
           ["Security – Specialty", "🔐", "Segurança avançada em workloads e dados na nuvem"]
         ]
       },
-      "extra": [
-        "Experiência prática em: EC2, S3, RDS, Lambda, IAM, VPC, CloudWatch"
-      ]
+      "extra": "Experiência prática em: EC2, S3, RDS, Lambda, IAM, VPC, CloudWatch"
     },
     {
       "name": "💰 Skills em FinOps",
@@ -35,17 +33,15 @@
           ["Engineer", "⚙️", "Implementação técnica de práticas FinOps em escala"]
         ]
       },
-      "extra": [
-        "Experiência prática em: otimização de custos, chargeback/showback, relatórios financeiros em nuvem"
-      ]
+      "extra": "Experiência prática em: otimização de custos, chargeback/showback, relatórios financeiros em nuvem"
     },
     {
       "name": "🛠️ Skills em IaC",
-      "content": [
-        "📦 Terraform (multi-cloud, módulos reutilizáveis)",
-        "📜 AWS CloudFormation (infraestrutura nativa AWS)",
-        "💡 AWS CDK (Cloud Development Kit com TypeScript/Python)",
-        "🔄 Integração com pipelines CI/CD"
+      "bullets": [
+        "📦 **Terraform** → Multi-cloud e modularidade",
+        "📜 **AWS CloudFormation** → Automação nativa AWS",
+        "💡 **AWS CDK** → IaC com linguagens de programação",
+        "🔄 Integração com pipelines **CI/CD**"
       ]
     },
     {
@@ -73,10 +69,10 @@
     },
     {
       "name": "🎯 Objetivos",
-      "content": [
-        "Consolidar minhas skills em Cloud, FinOps e IaC",
-        "Compartilhar conhecimento e boas práticas",
-        "Criar um portfólio técnico para a comunidade"
+      "bullets": [
+        "Consolidar minhas **skills em Cloud, FinOps e IaC**",
+        "Compartilhar **conhecimento e boas práticas**",
+        "Criar um **portfólio técnico** para a comunidade"
       ]
     },
     {
